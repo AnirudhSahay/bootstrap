@@ -1,0 +1,94 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.travel_main-div {
+    border: 1px solid blue;
+    padding-left: 4px;
+    padding-right: 4px;
+    float: none;
+
+}
+
+.travel_main-div img {
+    width: 100%;
+
+}
+
+.travel_main-div hr {
+    width: 250px;
+
+}
+
+.travel_main-div h5,
+.travel_main-div p {
+    margin-left: 20px;
+
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: rgb(30, 210, 39);
+}
+
+.environment_li {
+    margin-top: 13px;
+    margin-bottom: 20px;
+}
+
+.environment_li h4 {
+    padding: 8px;
+    border-bottom: 1px solid white;
+}
+
+.header_entrepreneur {
+    line-height: 2px;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
